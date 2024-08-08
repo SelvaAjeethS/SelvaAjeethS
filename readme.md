@@ -2,11 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with a background in language editing. I combine attention to detail, problem-solving skills, and a love for creating seamless user experiences.
 
-## 🔧 Skills
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks/Libraries**: React, Bootstrap
-- **Tools**: Git, Visual Studio Code
-
 ## 🚀 Projects
 Here are a few projects I've been working on:
 
@@ -23,6 +18,6 @@ Here are a few projects I've been working on:
 - **LinkedIn**: [https://www.linkedin.com/in/selvaajeeths]
 
 ## 📄 My Resume
-You can view my resume [here].
+You can view my resume [here](link to your resume).
 
 Feel free to explore my repositories and reach out if you'd like to connect or collaborate!
