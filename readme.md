@@ -1,11 +1,11 @@
-# Hello! I'm [Your Name] 👋
+# Hello! I'm [Selva Ajeeth S] 👋
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with a background in language editing. I combine attention to detail, problem-solving skills, and a love for creating seamless user experiences.
 
 ## 🔧 Skills
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks/Libraries**: React, Vue.js (or any others you use)
-- **Tools**: Git, Webpack, npm, (other tools you use)
+- **Frameworks/Libraries**: React, Bootstrap
+- **Tools**: Git, Visual Studio Code
 
 ## 🚀 Projects
 Here are a few projects I've been working on:
@@ -19,11 +19,10 @@ Here are a few projects I've been working on:
 
 
 ## 📫 How to Reach Me
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle] (if applicable)
+- **Email**: [ajeeth10gc@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/selvaajeeths]
 
 ## 📄 My Resume
-You can view my resume [here](link to your resume).
+You can view my resume [here].
 
 Feel free to explore my repositories and reach out if you'd like to connect or collaborate!
