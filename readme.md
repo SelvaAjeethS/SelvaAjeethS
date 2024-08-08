@@ -1,4 +1,4 @@
-# Hello! I'm [Selva Ajeeth S] 👋
+# Hello! I'm Selva Ajeeth S 👋
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with a background in language editing. I combine attention to detail, problem-solving skills, and a love for creating seamless user experiences.
 
