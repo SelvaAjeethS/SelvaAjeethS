@@ -5,8 +5,9 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a backgr
 ## 🚀 Projects
 Here are a few projects I've been working on:
 
-- **[Project Name](link)**: Brief description of what it does and the technologies used.
-- **[Another Project Name](link)**: Brief description of what it does and the technologies used.
+- **[Box of Resin](https://boxofresin.netlify.app/)**: Personalized Gift E-Commerce Site  
+*Developed using HTML, CSS, and JavaScript*
+<!--- **[Another Project Name](link)**: Brief description of what it does and the technologies used.-->
 
 
 ## 🛠️ Languages and Tools
