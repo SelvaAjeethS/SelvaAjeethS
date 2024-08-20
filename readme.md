@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a backgr
 ## 🚀 Projects
 Here are a few projects I've been working on:
 
-- **[Box of Resin](https://boxofresin.netlify.app/)**: Personalized Gift E-Commerce Site  
+- **[Box of Resin](https://selvaajeeths.github.io/Box-of-Resin-Personalized-Gift-E-Commerce-Site/)**: Personalized Gift E-Commerce Site  
 *Developed using HTML, CSS, and JavaScript*
 <!--- **[Another Project Name](link)**: Brief description of what it does and the technologies used.-->
 
