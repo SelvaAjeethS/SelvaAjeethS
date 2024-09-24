@@ -7,7 +7,15 @@ Here are a few projects I've been working on:
 
 - **[Box of Resin](https://selvaajeeths.github.io/Box-of-Resin-Personalized-Gift-E-Commerce-Site/)**: Personalized Gift E-Commerce Site  
 *Developed using HTML, CSS, and JavaScript*
-<!--- **[Another Project Name](link)**: Brief description of what it does and the technologies used.-->
+**[leon](link)**: mini E-Commerce Site
+*This is a mini e-commerce application built with React and Bootstrap, designed to demonstrate my front-end development skills. The project features a user-friendly interface, responsive design, and showcases the following functionalities:
+
+Product listing with filtering options
+Product detail view
+Cart management
+Responsive layout for various devices
+
+Feel free to check it out, and let me know if you have any feedback!*
 
 
 ## 🛠️ Languages and Tools
