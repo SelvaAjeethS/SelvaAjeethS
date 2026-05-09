@@ -1,33 +1,48 @@
-# Hello! I'm Selva Ajeeth S 👋
+# Hi, I'm Selva Ajeeth S 👋
+**Frontend / Full-Stack Developer** — I build fast, scalable web apps  
+with clean architecture and real-world performance optimization.
 
-Welcome to my GitHub profile! I'm a passionate front-end developer with a background in language editing. I combine attention to detail, problem-solving skills, and a love for creating seamless user experiences.
+---
 
-🖥️ **Portfolio Website**  
-Check out my [Personal Portfolio Website](https://selvaajeeths.github.io/My-Portfolio/) showcasing more of my work, skills, and the projects I’ve developed!
+## 🚀 Featured Projects
 
-## 🚀 Projects
-Here are a few notable projects I've worked on:
+### 💬 Chat Notes — Real-Time Chat App
+Real-time messaging with anonymous auth and live message sync using Firebase.  
+`React.js` `Firebase Realtime DB` `Firebase Auth` `Firebase Hosting`  
+[Live Demo](https://my-chat-notes.web.app/) · [Repository](https://github.com/SelvaAjeethS/chat-notes)
 
-- **[Box of Resin](https://selvaajeeths.github.io/Box-of-Resin-Personalized-Gift-E-Commerce-Site/)**: Personalized Gift E-Commerce Site  
-A fully functional e-commerce website developed using HTML, CSS, and JavaScript.  
-  - Implemented a user-friendly interface with interactive product filters and search functionality.
-  - Designed for responsiveness across different devices.
-- **[Leon](https://selvaajeeths.github.io/Mini-E-Commerce-Site/)**: Mini E-Commerce Site  
-  A mini e-commerce application built with React and Bootstrap, showcasing my front-end development skills. Key features include:  
-  - A clean, user-friendly interface with responsive design  
-  - Product listing and detail views  
-  - Cart management
-  - Integration with a mock product API for dynamic content
+---
 
-## 🛠️ Languages and Tools
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### ✅ FocusFlow — Full-Stack Task Management
+Productivity app with JWT auth, protected routes, filtering, sorting, and pagination.  
+`Next.js` `Node.js` `Express.js` `MongoDB` `JWT`  
+[Live Demo](https://focusflow-frontend-mocha.vercel.app/) · [Frontend Repo](https://github.com/SelvaAjeethS/focusflow-frontend) · [Backend Repo](https://github.com/SelvaAjeethS/task-management-api) · [Live API](https://focusflow-api-4egl.onrender.com/api)
 
+---
 
-## 📫 How to Reach Me
-- **Email**: [ajeeth10gc@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/selvaajeeths]
+### 🛍️ Leon — Mini E-Commerce Site
+Responsive e-commerce frontend with dynamic product listing and cart management.  
+`React.js` `Bootstrap` `JavaScript (ES6+)`  
+[Live Demo](https://selvaajeeths.github.io/Mini-E-Commerce-Site/) · [Repository](https://github.com/SelvaAjeethS/Mini-E-Commerce-Site)
 
-## 📄 My Resume
-You can view my resume [here](link to your resume).
+---
 
-Feel free to explore my repositories and reach out if you'd like to connect or collaborate!
+## 🛠️ Tech Stack
+
+**Frontend** — React.js · Next.js · TypeScript · JavaScript (ES6+) · Tailwind CSS · Bootstrap  
+**Backend** — Node.js · Express.js · REST APIs · JWT Authentication  
+**Database** — MongoDB · Firebase Realtime Database  
+**Testing** — Playwright (E2E) · Jest (Unit)  
+**Deploy** — Vercel · Render · Firebase Hosting · GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Selva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelvaAjeethS&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelvaAjeethS&layout=compact&hide_border=true&theme=default)
+
+---
+
+## 📫 Connect
+[Email](mailto:ajeeth10gc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/selvaajeeths) · [Portfolio](https://selvaajeeths.github.io/My-Portfolio/)
