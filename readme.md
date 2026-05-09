@@ -37,12 +37,5 @@ Responsive e-commerce frontend with dynamic product listing and cart management.
 
 ---
 
-## 📊 GitHub Stats
-
-![Selva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelvaAjeethS&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelvaAjeethS&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 📫 Connect
 [Email](mailto:ajeeth10gc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/selvaajeeths) · [Portfolio](https://selvaajeeths.github.io/My-Portfolio/)
